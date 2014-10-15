@@ -2,4 +2,4 @@
 Galatea. Boletín informativo
 ============================
 
-Añade en el grupo Galatea acceso y los boletines informativos
+Añade en el grupo Galatea acceso a los boletines informativos

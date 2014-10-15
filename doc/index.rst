@@ -1,4 +1,4 @@
 Galatea Newslettter Module
 ##########################
 
-Add access in Galatea group and newsletter models.
+Add access in Galatea group and newsletter models
